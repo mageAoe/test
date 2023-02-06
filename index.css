@@ -5,3 +5,12 @@
 .login{
     background: teal;
 }
+
+label{
+    padding: 20px;
+}
+
+.app{
+    max-width: 1050px;
+    height: 100vh;
+}
